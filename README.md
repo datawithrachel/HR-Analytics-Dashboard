@@ -38,10 +38,6 @@ It focuses on workforce insights that help HR teams make data-driven decisions.
 - Microsoft Excel
 - SQL (logic & data modeling concepts)
 
-## 📂 Dataset
-- HR employee dataset (cleaned)
-- 7 records with invalid working hours were removed during data preparation
-
 ## 📈 Key HR Metrics Used
 - Headcount
 - Attrition Rate
@@ -54,6 +50,3 @@ It focuses on workforce insights that help HR teams make data-driven decisions.
 ## 🚀 Why This Project Matters
 This dashboard reflects real-world HR reporting used by staffing firms and enterprises to monitor workforce health, reduce attrition, and improve employee engagement.
 
----
-
-📌 **Created by:** Rachel Johri
